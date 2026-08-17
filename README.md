@@ -1,5 +1,6 @@
 # オリジナルおみくじ
 https://amane0905.github.io/omikuji/
+
 ボタンを押すとランダムで運勢が表示されるおみくじアプリです。
 JavaScriptの学習として作成しました。
 
